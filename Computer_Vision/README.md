@@ -1,1 +1,1 @@
-This folder contains basic application of CV on various datasets using NN from pytorch.
+This folder contains basic application of CV on various datasets using Pytorch library
